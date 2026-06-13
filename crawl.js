@@ -113,7 +113,7 @@ function is2027CanadaInternship(job) {
   const location = (job.location || '').toLowerCase();
 
   // 1. Must be an internship or co-op
-  const isIntern = /intern|co-?op|coop|student|fellow/i.test(title);
+  const isIntern = /\bintern(ship)?s?\b|\bco-?op\b|\bcoop\b|\bstudent\b|\bfellow\b/i.test(title);
   if (!isIntern) return false;
 
   // 2. Location Check (Canada or Remote)
