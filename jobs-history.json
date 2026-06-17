@@ -1,5 +1,333 @@
 [
   {
+    "title": "Internship (No intern program at this time)",
+    "url": "https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7",
+    "company": "Ansatz Capital",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Software Engineer Intern (Fall / Winter 2026)",
+    "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
+    "company": "Cohere",
+    "location": "Canada, United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Research Internship (Fall, 2026)",
+    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+    "company": "Cohere",
+    "location": "Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Machine Learning Intern/Co-op  (Fall, 2026)",
+    "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+    "company": "Cohere",
+    "location": "Canada, United States, Europe, United Kingdom",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "PhD GenAI Research Scientist Intern",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "company": "Databricks",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Data Science Intern",
+    "url": "https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002",
+    "company": "Faire",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Product Management Intern, Admin Console (Summer 2026)",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4699772005",
+    "company": "Glean",
+    "location": "Mountain View, CA",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Co-op/Intern, Product Management - Summer 2026",
+    "url": "https://careers.hootsuite.com/job/?gh_jid=7942387",
+    "company": "Hootsuite",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Software Engineer Intern (Fall 2026)",
+    "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - France",
+    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - Poland",
+    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Year at Palantir - Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "2026 CFO Fall Co-op Student, Capital Markets Enterprise-Wide Stress Testing (8 months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "AI Builder Intern",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+    "company": "Scale AI",
+    "location": "San Francisco, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Finance Fellow - Human Frontier Collective (US)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
+    "company": "Scale AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Legal Fellow - Human Frontier Collective (US)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565834005",
+    "company": "Scale AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Machine Learning Fellow - Human Frontier Collective (Canada)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4661650005",
+    "company": "Scale AI",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Machine Learning Fellow - Human Frontier Collective (US)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
+    "company": "Scale AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Medical Fellow - Human Frontier Collective (US)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4591782005",
+    "company": "Scale AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "STEM Fellow - Human Frontier Collective (US)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4574113005",
+    "company": "Scale AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "SWE Fellow - Human Frontier Collective (Canada)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689954005",
+    "company": "Scale AI",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "SWE Fellow - Human Frontier Collective (US)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
+    "company": "Scale AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Technical Advisor Specialist (Part-Time Internship) ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Intern Software Developer - Fall 2026",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+    "company": "Squarepoint Capital",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "People Operations Intern (Fall 2026)",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4280872009",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+    "company": "Stripe",
+    "location": "Toronto, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Privacy Fellow",
+    "url": "https://stripe.com/jobs/search?gh_jid=7834218",
+    "company": "Stripe",
+    "location": "Seattle, WA; San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Quantitative Researcher Intern",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7238472",
+    "company": "Tower Research Capital",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Quantitative Trader Intern (PhD 2026)",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370",
+    "company": "Tower Research Capital",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026)",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
+    "company": "Tower Research Capital",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "AI Software Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Backend Software Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Frontend Software Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Hardware Engineer (Fall Co-op)",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Technical Support Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5017082007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Software Developer Co-op",
+    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006",
+    "company": "Visier",
+    "location": "Vancouver, BC, Canada",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
     "title": "Quantitative Researcher, Intern (Summer 2027) ",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
     "company": "Aquatic Capital Management",

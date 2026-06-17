@@ -196,7 +196,7 @@ function parseWorkableMarkdown(text, companyName) {
   return jobs;
 }
 
-// 2027 North America Internship Filter
+// 2027 North America Internship Filter (modified to accept any open season/year)
 function is2027NorthAmericaInternship(job) {
   const title = (job.title || '').toLowerCase();
   const location = (job.location || '').toLowerCase();
@@ -210,14 +210,7 @@ function is2027NorthAmericaInternship(job) {
                          /toronto|waterloo|vancouver|montreal|ottawa|calgary|edmonton|winnipeg|san francisco|new york|seattle|boston|chicago|austin|palo alto|mountain view|sunnyvale|los angeles|denver|atlanta|dallas|houston/i.test(location);
   if (!isNorthAmerica) return false;
 
-  // 3. Year/Term Check (Targeting 2027 internships, which will be posted starting mid-2026)
-  const has2027 = title.includes('2027');
-  const isWinter2027 = title.includes('winter') && !title.includes('2026') && !title.includes('2025');
-  const isSummer2027 = title.includes('summer') && !title.includes('2026') && !title.includes('2025');
-  const isFall2027 = title.includes('fall') && title.includes('2027');
-  const isYearRound = /year-round|year\s+round|rolling|evergreen|pipeline/i.test(title);
-
-  return has2027 || isWinter2027 || isSummer2027 || isFall2027 || isYearRound;
+  return true;
 }
 
 // Fetch helper with timeout
