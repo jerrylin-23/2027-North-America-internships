@@ -1,4 +1,4 @@
-# 🍁 2027 North America Internships & Co-ops
+# 🍁 North America Internships & Co-ops
 
 Automated repository tracking Software Engineering, Data Science, Product, and AI/ML internships & co-ops in North America for **2027** (Winter, Summer, Fall).
 
