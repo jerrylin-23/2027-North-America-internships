@@ -328,14 +328,6 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "PhD Data Scientist, Intern",
-    "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-    "company": "Stripe",
-    "location": "Toronto, Ontario, Canada",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Privacy Fellow",
     "url": "https://stripe.com/jobs/search?gh_jid=7834218",
     "company": "Stripe",
@@ -346,14 +338,6 @@
   {
     "title": "Backend Software Engineering Intern - Fall 2026",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
-    "company": "Verkada",
-    "location": "San Mateo, CA United States",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Frontend Software Engineering Intern - Fall 2026",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
     "company": "Verkada",
     "location": "San Mateo, CA United States",
     "status": "Active",
@@ -528,6 +512,14 @@
     "date_added": "2026-06-17"
   },
   {
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+    "company": "Stripe",
+    "location": "Toronto, Ontario, Canada",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
     "title": "Quantitative Trader Intern (PhD 2026)",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370",
     "company": "Tower Research Capital",
@@ -548,6 +540,14 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
     "company": "Tower Research Capital",
     "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Frontend Software Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
